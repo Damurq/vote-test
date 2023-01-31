@@ -8,6 +8,6 @@ A version of Node.js installed on your computer
 
 ## How to Use
 Clone this repository to your computer.
-Install the required dependencies by running npm install in the terminal.
+Install the required dependencies by running ``npm install`` in the terminal in the project folder.
 Replace the placeholder values for the Steem account name, private key, and vote parameters in the index.js file with your own values.
-Run the code by typing node index.js in the terminal.
+Run the code by typing ``node index.js`` in the terminal.
