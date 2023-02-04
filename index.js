@@ -5,15 +5,15 @@ const { PrivateKey } = require('dsteem');
 const client = new dsteem.Client('https://api.steemit.com');
 
 // the author and permlink of the post to vote on
-const author = 'realmankwon';
-const permlink = 'realmankwon-posting-2023-01-31-19-45';
+const author = 'anroja';
+const permlink = 'the-diary-game-27-january-2023-jum-at-penuh-kejutan';
 
 // your voting weight, as a percentage of your voting power
-const weight = 1; // 1%
+const weight = -1; // 1%
 
 // sign the vote with your account's ponsting key
-const privateKey = 'key';
-const account = 'account';
+const privateKey = '5J8s8KE85ZUG4is8ve3MEZKofT7hzDBRuBpsg77SusrzL3oCNhX';
+const account = 'victoria0408';
 
 // build the vote transaction
 const vote = {
