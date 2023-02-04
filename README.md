@@ -13,4 +13,4 @@ Replace the placeholder values for the Steem account name, private key, and vote
 Run the code by typing ``node index.js`` in the terminal.
 
 <a href="/docs/readm2.md">readm2</a>
-<a href="/docs"></a>
+<a href="/docs">docs</a>
